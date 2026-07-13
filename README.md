@@ -6,7 +6,7 @@ Este proyecto presenta un Análisis Exploratorio de Datos (EDA) sobre la informa
 
 El objetivo fue evaluar la calidad de los datos, corregir inconsistencias, explorar el comportamiento de los usuarios y obtener insights que puedan apoyar la toma de decisiones comerciales mediante el uso de Python y sus principales librerías para análisis de datos.
 
-##🎯 Objetivos
+##🎯 Objetivos##
 Evaluar la calidad de los datos.
 Identificar y corregir inconsistencias.
 Preparar los datos para su análisis.
